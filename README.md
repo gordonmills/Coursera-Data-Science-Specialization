@@ -1,2 +1,2 @@
-# Data-Science-Specialization---Coursera
+# Coursera-Data-Science-Specialization
 Repo for Data Science Specialization projects.
